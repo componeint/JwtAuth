@@ -1,0 +1,15 @@
+{
+    "name": "JwtAuth",
+    "alias": "jwtauth",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "App\\Components\\JwtAuth\\Providers\\JwtAuthServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
